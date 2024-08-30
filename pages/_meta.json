@@ -1,15 +1,25 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
+  "index": {
     "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
+    "title": "Home",
+    "theme": {
+      "layout": "raw"
+    }
+  },
+  "user-guide": {
+    "type": "page",
+    "title": "User Guide"
+  },
+  "docs": {
+    "type": "page",
+    "href": "/docs/latest",
+    "title": "Documentation"
+  },
+  "change-log": {
+    "type": "page",
+    "title": "Change Log",
+    "theme": {
+      "layout": "raw"
+    }
   }
 }

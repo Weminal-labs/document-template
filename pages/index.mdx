@@ -1,11 +1,35 @@
-# Introduction
- 
-Welcome to Nextra! This is a basic docs template. You can use it as a starting point for your own project :)
+---
+title: Nextra Personal Website Template
+---
 
-## What is Nextra?
+import Link from 'next/link';
 
-A **simple**, **powerful** and **flexible** site generation framework with everything you love from Next.js.
+export default function IndexPage() {
+  return (
+    <div className="relative isolate min-h-[80vh]">
+      <div className="mx-auto max-w-3xl py-32 sm:py-48 lg:py-56">
+        <div className="text-center">
+          <h2 className="text-3xl font-bold tracking-tight dark:text-white text-gray-900 sm:text-4xl ">
+            Nextra Personal Website Template
+          </h2>
+          <p className="p-3">Project using Nextra v3.0.0 alpha version</p>
+          <p>
+            <Link href="https://github.com/namnguyenthanhwork/nextra-personal-website-template" className="link">
+              Github Project
+            </Link>
+            <br />
+            <Link href="https://nextra.site/docs" className="link">
+              Nextra Documentation
+            </Link>
+            <br />
+            <Link href="https://the-guild.dev/blog/nextra-3" className="link">
+              Nextra v3 alpha
+            </Link>
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
 
-## Documentation
-
-The documentation is available at [https://nextra.site](https://nextra.site).
+<IndexPage />

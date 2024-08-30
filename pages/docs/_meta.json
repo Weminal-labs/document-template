@@ -1,0 +1,22 @@
+{
+  "index": {
+    "type": "page",
+    "display": "hidden"
+  },
+  "v1.0.1": {
+    "type": "page",
+    "display": "hidden"
+  },
+  "v1.0.2": {
+    "type": "page",
+    "display": "hidden"
+  },
+  "v1.0.3": {
+    "type": "page",
+    "display": "hidden"
+  },
+  "latest": {
+    "type": "page",
+    "display": "hidden"
+  }
+}
