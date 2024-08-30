@@ -1,5 +1,5 @@
 # Build a documentation site with Weminal Template using Nextra
-You can view at Readme File or [Notion Site]([https://nextra.site/docs](https://shadow-eagle-469.notion.site/Build-a-documentation-site-with-Weminal-Template-using-Nextra-ddb5af4b8a5546c99a5ad8fa0557850c?pvs=4)) to gain this knowledge 
+You can view at Readme File or [Notion Site](https://nextra.site/docs](https://shadow-eagle-469.notion.site/Build-a-documentation-site-with-Weminal-Template-using-Nextra-ddb5af4b8a5546c99a5ad8fa0557850c?pvs=4)) to gain this knowledge 
 
 ![image.png](/public/readme_assets/image.png)
 
