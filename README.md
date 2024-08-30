@@ -1,4 +1,5 @@
 # Build a documentation site with Weminal Template using Nextra
+You can view at Readme File or [Notion Site]([https://nextra.site/docs](https://shadow-eagle-469.notion.site/Build-a-documentation-site-with-Weminal-Template-using-Nextra-ddb5af4b8a5546c99a5ad8fa0557850c?pvs=4)) to gain this knowledge 
 
 ![image.png](/public/readme_assets/image.png)
 
@@ -29,7 +30,7 @@ Now, in [Weminal’s template repository](https://github.com/Weminal-labs/docume
 
 You need to fill some necessary information like this:
 
-![image_2.png](B/public/readme_assets/image_2.png)
+![image_2.png](/public/readme_assets/image_2.png)
 
 Repository was created!
 
