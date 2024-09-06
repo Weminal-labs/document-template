@@ -17,9 +17,6 @@
   },
   "change-log": {
     "type": "page",
-    "title": "Change Log",
-    "theme": {
-      "layout": "raw"
-    }
+    "title": "Change Log"
   }
 }
